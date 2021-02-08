@@ -4,7 +4,7 @@ public class DriverforHW
 	public static void main(String[] args)
 	{
 		VowelCheck("Matthew");
-		// is this even working
+		
 	}
 
 	public static void VowelCheck(String s)
